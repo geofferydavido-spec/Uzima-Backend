@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1606-issue-141-add-outbox-pattern-for-critical",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1606-issue-141-add-outbox-pattern-for-critical": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1606-issue-141-add-outbox-pattern-for-critical",
+    "origin"
+  ]
+}
